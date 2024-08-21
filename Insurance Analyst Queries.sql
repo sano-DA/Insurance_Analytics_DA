@@ -1,0 +1,1 @@
+SELECT * FROM insurance_analysis_db.brokerage;
